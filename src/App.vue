@@ -55,7 +55,6 @@ export default {
 	display: flex;
 	align-items: center;
 }
-
 .tab::after {
 	content: '';
 	display: block;
